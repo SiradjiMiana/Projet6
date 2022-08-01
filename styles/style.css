@@ -1,0 +1,40 @@
+/* Mise en page de la navigation */ 
+.barre {
+    background-color: #141E32;
+}
+
+h2 {
+    color: #FCFCFC;
+}
+
+/* Mise en page des cartes */
+
+h5, p, .btn {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+/* Mise en page du bandeau principal */
+
+.bp{
+    background-color: #EBEBEB;
+    height: 200px;
+}
+
+/* Mise en couleur et position du contenu-bandeau */
+
+.p1, .p2, .p3 {
+    background-color: #FCFCFC;
+    height: 150px; 
+    display: flex;
+    align-items: center;  
+    justify-content: center;
+    font-size: 40px;
+}
+
+/* Mise en couleur du footer */
+
+footer{
+    background-color: #141E32;
+}
